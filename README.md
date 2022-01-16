@@ -1,9 +1,5 @@
 ## HELLO, WELCOME TO MY PROFILE!
 
-- 👀 I’m working on a Roleplay Server 
-- 🌱 I’m currently learning .Lua
-- 📫 contact me by email razengancontacto@gmail.com
-
 <div align="center">
   <a href="https://github.com/RAzZ14">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAzZ14&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
